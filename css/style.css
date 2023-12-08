@@ -485,7 +485,6 @@ a {
 .first-section {
   height: 755px;
   background: #CFE3E8;
-  overflow: hidden;
 }
 .first-section__container {
   position: relative;
